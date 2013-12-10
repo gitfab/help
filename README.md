@@ -23,3 +23,7 @@ Access Token がおかしくなっている可能性があります。一度 log
 
 ![presentation.001.jpg](https://raw.github.com/gitfab/help/master/gitfab/resources/presentation.001.jpg)
 ---
+#既知のバグ
+
+* 日本語イメージのサムネイルが作成できない。
+---
